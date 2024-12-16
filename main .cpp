@@ -1,1 +1,1 @@
-cout<<"dev";
+cout<<"main";
